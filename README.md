@@ -40,6 +40,7 @@
 - 最高测试集准确率：65.75%（num_epochs=200, lr=0.001, momentum=0.95）
 - 测试集准确率稳定在55%-70%区间
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/1e52ac64-0d39-493e-b17c-290c21c24079">
+
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/0b056041-e3b4-46c2-aa2c-207334ff121e">
 
 ## 3. 正则化技术
