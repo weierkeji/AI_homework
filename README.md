@@ -24,6 +24,7 @@
 - 模型权重、训练过程loss的JSON文件和loss变化图存储在 `modelset/original_version_model` 文件夹中
 - 训练5轮后，loss整体呈下降趋势
 - 测试集准确率：60%
+- 
   <img width="358" alt="image" src="https://github.com/user-attachments/assets/709bc60e-53c4-448a-a817-4e8bf50030b7">
 
 ## 2. 多GPU并行训练
